@@ -82,10 +82,15 @@ The code:
 ## Example Output
 
 ```
-Early stopping at epoch 1365
-RMSE: 68752.22
-MAE: 49981.60
-R² Score: 0.6444
+Early stopping at epoch 1358
+RMSE indicates the average magnitude of error between actual and predicted values
+RMSE: 71594.15
+
+MAE calculates the average of the absolute differences between actual and predicted values
+MAE: 51000.83
+
+R² score indicates how well the model fits the data
+R² Score: 0.6178
 ```
 
 Training loss curve:
