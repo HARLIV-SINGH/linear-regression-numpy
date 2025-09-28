@@ -26,8 +26,8 @@ The goal is to practice the **mathematical foundations** of regression: preproce
 
 ## Files
 
-* `linear_regression.ipynb` - Notebook.
-* `linear_regression.py` - Core code.
+* `linear_regression.ipynb` - Notebook to understand step-by-step.
+* `linear_regression.py` - Code to get the testing results directly.
 * `housing.csv` – Dataset (California Housing).
 
 ---
